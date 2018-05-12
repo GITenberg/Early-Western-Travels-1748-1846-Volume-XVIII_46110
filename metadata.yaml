@@ -1,0 +1,56 @@
+_repo: Early-Western-Travels-1748-1846-Volume-XVIII_46110
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46110-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Malte-Brun, Conrad
+    alias: Bruun, Malthe Conrad
+    birthdate: 1775
+    deathdate: 1826
+    gutenberg_agent_id: '39583'
+    url: http://www.gutenberg.org/2009/agents/39583
+  - agent_name: Pattie, James O. (James Ohio)
+    aliases:
+    - Pattie, James
+    - Pattie, James Ohio
+    gutenberg_agent_id: '39425'
+    url: http://www.gutenberg.org/2009/agents/39425
+  - agent_name: Willard, Dr.
+    alias: Willard, Rowland
+    gutenberg_agent_id: '35867'
+    url: http://www.gutenberg.org/2009/agents/35867
+  editors:
+  - agent_name: Thwaites, Reuben Gold
+    alias: Thwaites, R. G. (Reuben Gold)
+    birthdate: 1853
+    deathdate: 1913
+    gutenberg_agent_id: '33780'
+    url: http://www.gutenberg.org/2009/agents/33780
+  - agent_name: Flint, Timothy
+    birthdate: 1780
+    deathdate: 1840
+    gutenberg_agent_id: '4664'
+    url: http://www.gutenberg.org/2009/agents/4664
+description: ''
+gutenberg_issued: '2014-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46110'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Early western travels, 1748-1846, v. 18
+subjects:
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'New Mexico -- Description and travel'
+- !lcsh 'Fredonian Insurrection, 1826-1827'
+- !lcc 'F786'
+- !lcsh 'Southwest, New -- Description and travel'
+- !lcsh 'California -- Description and travel'
+- !lcc 'F590.3'
+title: Pattie's Personal Narrative, 1824-1830; Willard's Inland Trade with New Mexico,
+  1825, and Downfall of the Fredonian Republic; and Malte-Brun's Account of Mexico
+url: http://www.gutenberg.org/ebooks/46110
